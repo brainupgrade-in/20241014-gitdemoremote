@@ -1,0 +1,5 @@
+method featurex(){
+
+        print 'test'
+
+        }
